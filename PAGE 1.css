@@ -1,0 +1,19 @@
+body{
+    background-color: #FAF7F0;
+}
+h1{
+    color: #4A4947;
+
+}
+
+a{
+    text-decoration: underline;
+    color:#4A4947 ;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a:hover{
+    color: white;
+    background-color: #B17457;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
